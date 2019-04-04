@@ -1,13 +1,12 @@
 <template>
   <div  class="pg-index">
     <div class="index-container">
-      <img src="../assets/img/logo.png">
       <p>一款轻量级、模块化的前端 UI 组件库</p>
     </div>
     <div class="separate-panel">
       <div class="about">
         <router-link :to="{name: 'giud'}">开始使用</router-link>
-        <a target="_blank" class="btn-github" href="https://github.com/VV-UI/VV-UI">GitHub</a>
+        <a target="_blank" class="btn-github" href="https://github.com/zhanghaiyang121/ss-ui">GitHub</a>
       </div>
     </div>
   </div>

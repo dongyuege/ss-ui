@@ -1,6 +1,6 @@
 {
   "name": "ss-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a ui library fore Vue",
   "author": "zhanghaiyang<2320702671@qq.com>",
   "main": "lib/ss-ui.min.js",

@@ -4,11 +4,11 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import demoBlock from './components/demo-block.vue'
-import VVUI from '../packages/index.js'
+import SsUi from '../packages/index.js'
 import '../packages/styles/index.css'
 import './hljs.css'
 Vue.component('demo-block', demoBlock)
-Vue.use(VVUI)
+Vue.use(SsUi)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
